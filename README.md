@@ -5,7 +5,8 @@
 
 A collection of auto-generated images for Rock Pi N10.
 
-* Armbian images will have name started with `Armbian`.
+* Armbian image will have name started with `Armbian`.
+* Legacy Radxa debos image can be found [here](https://github.com/radxa/rock-pi-images-released/releases).
 
 ## Where can I download the image?
 
